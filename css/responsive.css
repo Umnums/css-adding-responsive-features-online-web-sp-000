@@ -36,17 +36,19 @@
   .col-1 {
     float: none;
     width: 100%;
-    margin-left: 0
+    margin-left: 0px
   }
 
   .col-2 {
     float: none;
-    width: 66%;
+    width: 100%;
+    margin-left: 0px
   }
 
   .col-3{
     float: none;
-    width: 66%;
+    width: 100%;
+    margin-left: 0px
   }
 
 
