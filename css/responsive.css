@@ -33,4 +33,23 @@
     column-count: 1;
   }
 
+  .col-1 {
+    float: none;
+    width: 100%;
+    margin-left: 0
+  }
+
+  .col-2 {
+    float: none;
+    width: 66%;
+  }
+
+  .col-3{
+    float: none;
+    width: 66%;
+  }
+
+
+  
+
 }
