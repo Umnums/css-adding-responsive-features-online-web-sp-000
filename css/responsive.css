@@ -59,4 +59,5 @@
 
 @media only screen and (max-width: 700px){
   #navbar nav{display: none}
+  #navbar nav a.menu-icon{ display: inline;}
 }
